@@ -66,11 +66,6 @@ I'm a Computer Science undergraduate at the University of Colombo School of Comp
 
 # 🚀 Featured Projects
 
-### 📦 SwiftLogistics — Middleware System
-
-A middleware-based logistics system that coordinates communication between different services and external systems.
-
----
 
 ### 🏗️ Stagen — Construction Tracking System
 
@@ -90,6 +85,11 @@ A community-based learning platform designed to allow users to share and access 
 
 ---
 
+### 📦 SwiftLogistics — Middleware System
+
+A middleware-based logistics system that coordinates communication between different services and external systems.
+
+---
 # 📊 GitHub Analytics
 
 <p align="center">
