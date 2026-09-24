@@ -103,6 +103,13 @@ A middleware-based logistics system that coordinates communication between diffe
 
 ---
 
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/navodyamethmali/navodyamethmali/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 # 🌐 Connect With Me
 
