@@ -103,25 +103,10 @@ A community-based learning platform designed to allow users to share and access 
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=navodyamethmali" />
-</p>
-
----
-
-#  Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/navodyamethmali/navodyamethmali/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/navodya-methmali">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
