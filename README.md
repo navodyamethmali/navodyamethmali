@@ -93,12 +93,12 @@ A middleware-based logistics system that coordinates communication between diffe
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=navodyamethmali&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=navodyamethmali&layout=compact&theme=tokyonight&hide_border=true" height="170"
+  <img src="./profile/stats.svg" height="170">
+  <img src="./profile/top-langs.svg" height="170">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=navodyamethmali&theme=tokyonight&hide_border=true" />
+  <img src="./profile/streak.svg" height="195">
 </p>
 
 ---
