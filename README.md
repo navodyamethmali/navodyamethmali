@@ -63,33 +63,6 @@ I'm a Computer Science undergraduate at the University of Colombo School of Comp
 - 💼 Preparing for Software Engineering Internships
 
 ---
-
-# 🚀 Featured Projects
-
-
-### 🏗️ Stagen — Construction Tracking System
-
-A construction project management and tracking platform with different portals for customers, companies, site supervisors and trades.
-
----
-
-### 🤖 AI Email Assistant
-
-An AI-powered email assistant designed to help users interact with and manage emails using AI.
-
----
-
-### 📚 OpenMinds — Community Learning Platform
-
-A community-based learning platform designed to allow users to share and access educational content.
-
----
-
-### 📦 SwiftLogistics — Middleware System
-
-A middleware-based logistics system that coordinates communication between different services and external systems.
-
----
 # 📊 GitHub Analytics
 
 <p align="center">
