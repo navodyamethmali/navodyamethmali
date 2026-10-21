@@ -1,6 +1,3 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=navodyamethmali&style=for-the-badge&color=blue" />
-</p>
 <div align=center>
 
 # 👋 Hi, I'm Navodya Methmali
@@ -100,6 +97,10 @@ I'm a Computer Science undergraduate at the University of Colombo School of Comp
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=navodyamethmali&style=for-the-badge&color=blue" />
 </p>
 
 ---
